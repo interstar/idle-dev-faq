@@ -17,6 +17,11 @@ A :
 
 A :  
 
+###Q : Where can I see current issues?
+
+A : On the issue tracker. [Here is a search for IDLE bugs](http://bugs.python.org/issue?components=6&keywords=2&status=1&%40columns=id&%40columns=activity&%40columns=title&%40group=priority&%40sort=activity&%40action=search) 
+
+
 ###Q : Who do I submit patches to?
 
 A : Terry Reedy is currently responsible, but anyone who is on the [nosy list](http://docs.python.org/devguide/triaging.html#nosy-list) of followers for the issue will get a notification if a patch is submitted.
