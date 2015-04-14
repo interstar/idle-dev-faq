@@ -27,7 +27,7 @@ Use [Mercurial](http://mercurial.selenic.com/) and clone the repo at [https://hg
     $ hg clone https://hg.python.org/cpython
 
 
-###Q:
+###Q: How do I get started contributing to IDLE?
 
  * Look at the [current bugs](http://bugs.python.org/issue?components=6&keywords=2&status=1&%40columns=id&%40columns=activity&%40columns=title&%40group=priority&%40sort=activity&%40action=search) in the issue tracker.
  * Fix one
