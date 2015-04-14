@@ -14,7 +14,7 @@ This document came about from a [Feb 2014 idle-dev mailing list thread](https://
     1. [YouTube tutorials by TheReimber](https://www.youtube.com/watch?v=rcACl0sUJeQ)
     1. Book: [Modern Tkinter for Busy Python Developers](http://www.amazon.com/Modern-Tkinter-Busy-Python-Developers-ebook/dp/B0071QDNLO)
     1. Demo code of Tkinter widgets: [A_tour_of_Tkinter_widgets](http://tkinter.unpythonic.net/wiki/A_tour_of_Tkinter_widgets)
-
+1. Check out the [IDLE source code guide](source_code_guide.md)
 
 
 A quick cheat-sheet / FAQ for people interested in contributing to Python IDLE development.
