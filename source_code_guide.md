@@ -1,0 +1,1 @@
+TODO: Explain the general structure of IDLE's source code.
