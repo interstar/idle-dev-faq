@@ -40,7 +40,7 @@ A : Terry Reedy is currently responsible, but anyone who is on the [nosy list](h
 
 ###Q : Where does the main discussion about IDLE development take place?
 
-A : Here on IDLE-dev : https://mail.python.org/mailman/listinfo/idle-dev
+A : On the [IDLE-dev mailing list](https://mail.python.org/mailman/listinfo/idle-dev) and in the issue tracker itself. 
 
 Note that users of the IDLE-dev list are expected to abide by the [PSF Code of Conduct](http://www.python.org/psf/codeofconduct/)
 
