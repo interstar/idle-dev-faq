@@ -62,3 +62,6 @@ Submit patches on the [https://bugs.python.org/](https://bugs.python.org/) bug/i
 
 The [idle-dev mailing list](https://mail.python.org/mailman/listinfo/idle-dev). Discussions on the mailing list are friendly and civil, and users are expected to abide by the [PSF Code of Conduct](http://www.python.org/psf/codeofconduct/).
 
+###Q: Are there other projects based off of IDLE?
+
+[IdleX](http://idlex.sourceforge.net/) extends the functionality of IDLE with new features. [VIDLE for VPython](http://www.vpython.org/index.html) is also derived from the IDLE codebase.
